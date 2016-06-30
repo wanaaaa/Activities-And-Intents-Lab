@@ -1,5 +1,5 @@
 ---
-title: Activities and Intents Lab: Mad Libs
+title: Activities and Intents Lab - Mad Libs
 type: lab
 duration: "1:30"
 creator:
